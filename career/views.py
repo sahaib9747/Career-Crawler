@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-# reuirements: xml, bs4
 # from django.shortcuts import render
 # from django.http import HttpResponse
 
